@@ -1,0 +1,6 @@
+{
+  "dockerComposeFile": ["../../docker-compose.yml"],
+  "service": "repo_one",
+  "shutdownAction": "none",
+  "workspaceFolder": "/workspace/repo-one",
+}
